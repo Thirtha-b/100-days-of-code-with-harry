@@ -1,0 +1,9 @@
+a="1"
+b="3"
+print(a+b)
+A=9.3
+B=4
+print(A+B)
+a1="4"
+b1="5"
+print(int(a1)+int(b1))
