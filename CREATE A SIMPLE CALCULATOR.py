@@ -4,7 +4,6 @@ selection = input("Enter the operation you want to perform (+, -, *, /, **, %, /
 
 # Print the first half of the equation
 print(number1, selection, number2, "=", end=" ")
-
 # Perform the actual calculation based on the selection
 if selection == "+":
     print(number1 + number2)
